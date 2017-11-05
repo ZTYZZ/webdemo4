@@ -1,4 +1,4 @@
-###　重要说明　###
+### 重要说明
 
 百度前端技术学院的课程任务是由百度前端工程师专为对前端不同掌握程度的同学设计。我们尽力保证课程内容的质量以及学习难度的合理性，但即使如此，真正决定课程效果的，还是你的每一次思考和实践。
 
@@ -9,7 +9,7 @@
 实践HTML/CSS布局方式
 深入了解position等CSS属性
 
-###　任务描述　###
+### 任务描述　
 
 实现如 示例图（点击打开） 的效果
 灰色元素水平垂直居中，有两个四分之一圆位于其左上角和右下角。
@@ -22,7 +22,7 @@
 调节浏览器高度和宽度，黄色扇形的定位始终准确。
 其他效果图中给出的标识均被正确地实现，错一项扣一分。
 
-＊＊参考资料＊＊
+**参考资料**
 HTML和CSS高级指南之二——定位详解：大漠老师手把手教你，这次彻底搞懂定位问题http://www.w3cplus.com/css/advanced-html-css-lesson2-detailed-css-positioning.html
 Centering in CSS: A Complete Guide：完整讨论了不同情况下的居中方案，建议自己思考之后再看答案https://css-tricks.com/centering-css-complete-guide/
 Get HTML & CSS Tips In Your Inbox：有人写了一个作弊工具生成居中代码，但是看着代码你明白为什么吗　http://howtocenterincss.com/
